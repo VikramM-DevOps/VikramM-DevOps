@@ -1,5 +1,8 @@
 <img align="left" height="255" src="https://github.com/VikyM-ops/vikrammassets/blob/master/assets/mypicwithicon.png"  /><br>
 
+<br>
+<br>
+
 ###
 <h1 align="center">Hi 👋, I'm Vikram Mulik</h1>
 <h3 align="center">Born in Maharashtra, India, and now living in Mumbai.</h3>

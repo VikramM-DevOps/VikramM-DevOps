@@ -1,7 +1,6 @@
-<img align="left" height="255" src="https://github.com/VikyM-ops/vikrammassets/blob/master/assets/mypicwithicon.png"  /><br>
+<img align="left" height="255" src="https://github.com/VikyM-ops/vikrammassets/blob/master/assets/mypicwithicon.png"  />
 
-<br>
-<br>
+<br><br><br><br><br><br>
 
 ###
 <h1 align="center">Hi 👋, I'm Vikram Mulik</h1>

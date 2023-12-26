@@ -66,7 +66,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramm-devops&show_icons=true&locale=en" alt="vikramm-devops" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikramm-devops&" alt="vikramm-devops" /></p>![image](https://github.com/VikramM-DevOps/VikramM-DevOps/assets/58162838/31cd25c9-5e4e-4603-9ac2-488c2a2cc6ad)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikramm-devops&" alt="vikramm-devops" /></p>
+
 
 <!--
 **VikramM-DevOps/VikramM-DevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
 
 ###
 <h1 align="center">Hi 👋, I'm Vikram Mulik</h1>
-<h3 align="center">Born in Maharashtra, India, and now living in Mumbai.</h3>
+<h3 align="center">Living in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramm-devops&label=Profile%20views&color=0e75b6&style=flat" alt="vikramm-devops" /> </p>
 
@@ -61,7 +61,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikramm-devops&show_icons=true&locale=en&layout=compact" alt="vikramm-devops" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramm-devops&show_icons=true&locale=en" alt="vikramm-devops" /></p>

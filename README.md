@@ -22,6 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<p align="left">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -60,9 +61,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-</div>
+</div></p>
 
-<br><br><br><br><br>
+<br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikramm-devops&show_icons=true&locale=en&layout=compact" alt="vikramm-devops" /></p>
 
